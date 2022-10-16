@@ -1,0 +1,98 @@
+[
+    {
+        "site name": "Lab1a",
+        "device role": "Spine switch",
+        "hostname": "spine01.lab1a",
+        "ip address": "172.19.226.63"
+    },
+    {
+        "site name": "Lab1a",
+        "device role": "Spine switch",
+        "hostname": "spine02.lab1a",
+        "ip address": "172.19.226.64"
+    },
+    {
+        "site name": "Lab1a",
+        "device role": "Leaf switch",
+        "hostname": "leaf01.lab1a",
+        "ip address": "172.19.226.67"
+    },
+    {
+        "site name": "Lab1a",
+        "device role": "Leaf switch",
+        "hostname": "leaf02.lab1a",
+        "ip address": "172.19.226.68"
+    },
+    {
+        "site name": "Lab1a",
+        "device role": "Leaf switch",
+        "hostname": "leaf03.lab1a",
+        "ip address": "172.19.226.69"
+    },
+    {
+        "site name": "Lab1a",
+        "device role": "Access Switch",
+        "hostname": "sw01.lab1a",
+        "ip address": "172.19.226.70"
+    },
+    {
+        "site name": "Lab1a",
+        "device role": "Firewall",
+        "hostname": "fw01.lab1a",
+        "ip address": "172.19.226.65"
+    },
+    {
+        "site name": "Lab1a",
+        "device role": "Firewall",
+        "hostname": "fw02.lab1a",
+        "ip address": "172.19.226.66"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Core Switch",
+        "hostname": "core01.lab1b",
+        "ip address": "172.19.226.83"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Core Switch",
+        "hostname": "core02.lab1b",
+        "ip address": "172.19.226.84"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Distribution Switch",
+        "hostname": "sw01.lab1b",
+        "ip address": "172.19.226.87"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Distribution Switch",
+        "hostname": "sw02.lab1b",
+        "ip address": "172.19.226.88"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Access Switch",
+        "hostname": "sw03.lab1b",
+        "ip address": "172.19.226.89"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Access Switch",
+        "hostname": "sw04.lab1b",
+        "ip address": "172.19.226.90"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Firewall",
+        "hostname": "fw01.lab1b",
+        "ip address": "172.19.226.85"
+    },
+    {
+        "site name": "Lab1b",
+        "device role": "Firewall",
+        "hostname": "fw02.lab1b",
+        "ip address": "172.19.226.86"
+    }
+]

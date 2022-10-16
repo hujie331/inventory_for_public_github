@@ -1,0 +1,16 @@
+Lab1a,Spine switch,spine01.lab1a,172.19.226.63,2022-10-14 00:00:00
+Lab1a,Spine switch,spine02.lab1a,172.19.226.64,2022-10-14
+Lab1a,Leaf switch,leaf01.lab1a,172.19.226.67,2022-10-14
+Lab1a,Leaf switch,leaf02.lab1a,172.19.226.68,2022-10-14
+Lab1a,Leaf switch,leaf03.lab1a,172.19.226.69,2022-10-14
+Lab1a,Access Switch,sw01.lab1a,172.19.226.70,2022-10-14
+Lab1a,Firewall,fw01.lab1a,172.19.226.65,2022-10-14
+Lab1a,Firewall,fw02.lab1a,172.19.226.66,2022-10-14
+Lab1b,Core Switch,core01.lab1b,172.19.226.83,2022-10-14
+Lab1b,Core Switch,core02.lab1b,172.19.226.84,2022-10-14
+Lab1b,Distribution Switch,sw01.lab1b,172.19.226.87,2022-10-14
+Lab1b,Distribution Switch,sw02.lab1b,172.19.226.88,2022-10-14
+Lab1b,Access Switch,sw03.lab1b,172.19.226.89,2022-10-14
+Lab1b,Access Switch,sw04.lab1b,172.19.226.90,2022-10-14
+Lab1b,Firewall,fw01.lab1b,172.19.226.85,2022-10-14
+Lab1b,Firewall,fw02.lab1b,172.19.226.86,2022-10-14
